@@ -1,0 +1,7 @@
+{
+  "name": "Parole du Jour - Évangile & Liturgie",
+  "description": "Une application élégante pour lire et écouter l'Évangile et les lectures catholiques du jour. Compatible mobile pour iOS et Android.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
